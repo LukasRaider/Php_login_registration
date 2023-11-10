@@ -1,7 +1,6 @@
 # Php_login_registration
 
-Connect with MySQL database in website lukashuvar.borec.cz
+Basic work with PHP script and programing web system of the registration and login user, simple metod
 
-link http://lukashuvar.borec.cz/Projects/PHP/Uvod.php
 
 
